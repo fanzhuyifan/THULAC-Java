@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/deeplearning4j/dl4j-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/theaigames/ultimatetictactoe-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/朱奕帆/workspace" />
