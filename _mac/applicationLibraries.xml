@@ -8,5 +8,13 @@
       <SOURCES />
       <jarDirectory url="file://$USER_HOME$/robocode/libs" recursive="false" />
     </library>
+    <library name="src">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/zhuyifan/workspace/jadb-1.1.0/src" />
+        <root url="file://$USER_HOME$/zhuyifan/workspace/jadb-1.1.0/test" />
+      </SOURCES>
+    </library>
   </component>
 </application>
